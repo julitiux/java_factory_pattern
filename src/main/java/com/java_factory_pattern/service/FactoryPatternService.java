@@ -1,5 +1,7 @@
 package com.java_factory_pattern.service;
 
-public class FactoryPatternService {
+import org.springframework.stereotype.Service;
 
+@Service
+public class FactoryPatternService {
 }
